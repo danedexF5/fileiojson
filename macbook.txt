@@ -1,0 +1,1 @@
+{"ram":"8gb","color":"silver","year":2015,"size":15.5,"display":"regular"}
